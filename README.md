@@ -31,4 +31,4 @@ Entrar no [Slack do Training Center](https://github.com/training-center/slack) e
 
 ## Responsáveis
 
-Caso você precise entrar em contato com as pessoas responsáveis por este grupo de estudos, pode chamar por `@brunogbr` no Slack do Training Center.
+Caso você precise entrar em contato com as pessoas responsáveis por este grupo de estudos, pode chamar por `@brunogbarros` no Slack do Training Center.
