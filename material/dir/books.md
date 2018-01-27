@@ -2,6 +2,6 @@
 
 ### Gratuitos
 
--[Inglês](https://github.com/brunogbr/GoBooks)
+- [Inglês](https://github.com/brunogbr/GoBooks)
 
 ### Pagos
